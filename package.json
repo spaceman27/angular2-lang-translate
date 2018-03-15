@@ -1,0 +1,7 @@
+{
+  "name": "gTranslate",
+  "version": "",
+  "dependencies": {
+    "google-translate-api": "^2.3.0"
+  }
+}
